@@ -66,4 +66,13 @@ const anmol = {
 月 －－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－ 陽
 
 //
---
+
+
+___
+
+
+**Shh , hey there~**
+<h4 align="left">if you liked our profile that much , you could buy us a coffee and show some support @ </h4>
+<p><a href="https://www.buymeacoffee.com/ikigai01"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="190" alt="ikigai01" /></a></p><br><br>
+
+___
